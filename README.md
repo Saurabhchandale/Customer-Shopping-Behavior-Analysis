@@ -165,8 +165,6 @@ python main.py
 * Presentation
 
 ---
-
 ## 🚀 Conclusion
-
 This project demonstrates end-to-end data analytics skills, including **data preprocessing, analysis, SQL querying, visualization, and business storytelling**—making it highly relevant for roles in **Data Analysis and Business Intelligence**.
 
