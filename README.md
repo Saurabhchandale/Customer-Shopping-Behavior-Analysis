@@ -32,7 +32,7 @@ The workflow covers **data loading, cleaning, exploratory data analysis (EDA), S
 ## 🛠️ Tools & Technologies
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-* **SQL** (PostgreSQL / MySQL / SQL Server)
+* **SQL** (MySQL / SQL Server)
 * **Power BI** (Dashboard & Visualization)
 * **Gamma** (Presentation creation)
 * **Jupyter Notebook / VS Code**
